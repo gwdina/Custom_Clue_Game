@@ -1,0 +1,2 @@
+1: Allowed for multiple people to be in the same room without stacking ontop of each other
+2. JAR file to play the game

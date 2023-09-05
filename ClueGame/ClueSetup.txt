@@ -1,0 +1,27 @@
+// Rooms and room cards
+Room, Living Room, L
+Room, Bedroom, B
+Room, Kitchen, K
+Room, Garden, G
+Room, Dining Room, D
+Room, Atrium, A
+Room, Bathroom, T
+Room, Office, O
+Room, Pool, P
+// other spaces on board
+Space, Unused, X
+Space, Walkway, W
+// players
+Person, Al Capone, Cyan, 23, 10, *
+Person, Kenichi Shinoda, Yellow, 24, 4
+Person, Pablo Escobar, Blue, 23, 20
+Person, Eddie McGrath, Green, 0, 10
+Person, Benjamin Siegel, Magenta, 23, 29
+Person, Matteo Denaro, Red, 8, 30
+// weapons
+Weapon, Pistol
+Weapon, Poison
+Weapon, Katana
+Weapon, Throwing Stars
+Weapon, Wire
+Weapon, Golf Club
